@@ -17,7 +17,7 @@ A simple Python console-based Unit Converter that helps users convert Length, We
 
 - Language -> Python
 -  Interface -> Console/Terminal
-- oncepts Used -> Input/Output, Functions, Loops, Conditional Statements
+- Concepts Used -> Input/Output, Functions, Loops, Conditional Statements
 
 # How to Run the Program
 
